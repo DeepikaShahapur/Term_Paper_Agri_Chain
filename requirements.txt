@@ -1,0 +1,51 @@
+# ═══════════════════════════════════════════════════════
+# AgriChain v2.0 — Dependency Reference
+# ═══════════════════════════════════════════════════════
+# This project uses Node.js (not Python).
+# Install all dependencies with:
+#   npm install          (root — Hardhat + contracts)
+#   cd src/frontend && npm install   (Next.js frontend)
+# ═══════════════════════════════════════════════════════
+
+# ── Runtime Requirements ────────────────────────────────
+# Node.js       >= 18.0.0   (https://nodejs.org)
+# npm           >= 9.0.0
+# MetaMask      >= 11.0     (browser extension)
+
+# ── Root / Smart Contract Dependencies (package.json) ──
+# hardhat                   ^2.22.0    # Ethereum dev environment
+# @nomicfoundation/hardhat-toolbox ^5.0.0  # Hardhat plugins bundle
+# @openzeppelin/contracts   ^5.0.0    # AccessControl, ReentrancyGuard
+# ethers                    ^6.0.0    # Deploy script & utilities
+# dotenv                    ^16.0.0   # Environment variable loading
+# hardhat-gas-reporter      ^1.0.0    # Gas usage reporting
+
+# ── Frontend Dependencies (src/frontend/package.json) ──
+# next                      ^14.0.0   # Next.js 14 App Router
+# react                     ^18.0.0   # React 18
+# react-dom                 ^18.0.0   # React DOM
+# wagmi                     ^2.0.0    # React hooks for Ethereum
+# viem                      ^2.0.0    # TypeScript Ethereum client
+# @tanstack/react-query     ^5.0.0    # Async state management (Wagmi peer dep)
+# tailwindcss               ^3.0.0    # Utility-first CSS
+# typescript                ^5.0.0    # TypeScript support
+# @types/react              ^18.0.0   # React type definitions
+# @types/node               ^20.0.0   # Node.js type definitions
+# autoprefixer              ^10.0.0   # CSS autoprefixer (Tailwind dep)
+# postcss                   ^8.0.0    # CSS processing (Tailwind dep)
+
+# ── Quick Install Commands ──────────────────────────────
+# 1. Install contract dependencies:
+#    npm install
+#
+# 2. Install frontend dependencies:
+#    cd src/frontend && npm install
+#
+# 3. Start local Hardhat node:
+#    npx hardhat node
+#
+# 4. Deploy contracts:
+#    npx hardhat run src/scripts/deploy.js --network localhost
+#
+# 5. Start frontend dev server:
+#    cd src/frontend && npm run dev

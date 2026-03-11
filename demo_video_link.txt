@@ -1,0 +1,31 @@
+═══════════════════════════════════════════════════════
+  AgriChain v2.0 — Demo Video Links
+═══════════════════════════════════════════════════════
+
+Demo Video (Full Lifecycle Walkthrough):
+  [PASTE YOUR VIDEO LINK HERE]
+  e.g., https://www.youtube.com/watch?v=XXXXXXXXXXX
+  e.g., https://drive.google.com/file/d/XXXXXXXXXXX
+
+─────────────────────────────────────────────────────
+What the demo covers:
+─────────────────────────────────────────────────────
+  ✅ 1. MetaMask wallet connection & role display
+  ✅ 2. Admin Panel — adding Farmer, Distributor,
+        Retailer, Consumer roles + verification
+  ✅ 3. Farmer registers product (Wheat, Punjab India)
+  ✅ 4. Farmer lists product for sale (0.05 ETH)
+  ✅ 5. Distributor purchases (Escrow deposit)
+  ✅ 6. Farmer ships → Distributor confirms receipt
+        (Escrow released to Farmer)
+  ✅ 7. Distributor processes → packages → lists
+  ✅ 8. Retailer purchases → Distributor ships →
+        Retailer confirms receipt
+  ✅ 9. Retailer lists → Consumer purchases
+  ✅ 10. Journey Complete! (State 12 confirmed)
+
+─────────────────────────────────────────────────────
+Total transactions in demo: 16
+Total gas consumed: ~724,000 units
+Network: Hardhat Local (Chain ID 1337)
+─────────────────────────────────────────────────────
