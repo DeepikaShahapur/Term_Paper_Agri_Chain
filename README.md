@@ -186,7 +186,7 @@ State 12 │ Purchased by Consumer       ← CONSUMER  ✅  Journey Complete!
 
 ## Research Paper
 
-📄 Full IEEE-format paper available in [`docs/AgriChain_Research_Paper.pdf`](docs/AgriChain_Research_Paper.pdf)
+📄 Full IEEE-format paper available in [`docs/AgriChain_Research_Paper.pdf`](docs/TermPaper_AgriChain.pdf)
 
 **Title:** AgriChain: A Smart Contract-Enabled Blockchain System for Transparent Agricultural Produce Tracking
 
