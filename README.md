@@ -190,15 +190,15 @@ State 12 │ Purchased by Consumer       ← CONSUMER  ✅  Journey Complete!
 
 **Title:** AgriChain: A Smart Contract-Enabled Blockchain System for Transparent Agricultural Produce Tracking
 
-**Author:** Deepika Shanapur, Department of CSE, [Your Institution], Karnataka, India
+**Author:** Deepika Shahapur, Department of AI & DS, Alliance University, Karnataka, India
 
 ---
 
 ## Author
 
-**Deepika Shanapur**
-Department of Computer Science and Engineering
-[Your Institution Name], Karnataka, India
+**Deepika Shahapur**
+Department of Artificial Intelligence and Data Science
+Alliance University, Karnataka, India
 
 ---
 
