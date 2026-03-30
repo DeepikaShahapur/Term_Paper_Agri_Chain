@@ -49,7 +49,7 @@ AgriChain v2.0 is a production-ready Ethereum decentralised application (dApp) t
 ---
 ## Demo Video Link
 
-https://alliancebschool-my.sharepoint.com/:v:/g/personal/pdeepikamtech25_stu_alliance_edu_in/IQDhancrt7U0QIehyShfH2v3ATmAgjUwGAckEa9arLZvTUQnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LnQjYU
+https://alliancebschool-my.sharepoint.com/:v:/g/personal/pdeepikamtech25_stu_alliance_edu_in/IQDhancrt7U0QIehyShfH2v3ATmAgjUwGAckEa9arLZvTUQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yuCyWH
 
 ## System Architecture
 
