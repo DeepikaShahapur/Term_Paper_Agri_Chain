@@ -1,11 +1,9 @@
 ═══════════════════════════════════════════════════════
-  AgriChain v2.0 — Demo Video Links
+  AgriChain v2.0 — Demo Video 
 ═══════════════════════════════════════════════════════
 
 Demo Video (Full Lifecycle Walkthrough):
-  [PASTE YOUR VIDEO LINK HERE]
-  e.g., https://www.youtube.com/watch?v=XXXXXXXXXXX
-  e.g., https://drive.google.com/file/d/XXXXXXXXXXX
+  
 
 ─────────────────────────────────────────────────────
 What the demo covers:
